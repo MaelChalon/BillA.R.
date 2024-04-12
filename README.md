@@ -45,17 +45,5 @@ Pour l'entrainement du modèle nous avons utilisé 400 images annotées grâce a
 Pour l'entrainement du modèle nous avons utilisé la puissance de calcul de Google Colab.
 La librairie native Tkinter de Python est utilisé pour réaliser l'interface graphique de l'application.
 
-# Comptes App.cvat
-## 1er compte 
-- mail : saebillard@gmail.com
-- password mail : Azertyuiop01
-- Login : SAEBillAR
-- password : Azerty01
-## 2eme compte 
-- mail : saebillar@gmail.com
-- password mail : 4GcDPTya67c4u4
-- Login : sae-billar
-- password : Azertyy01
-
 ## Command
 - Pour compiler le projet veuillez exécuter le script : **compilation_exe.bat** celui-ci génerera un une application en .exe
